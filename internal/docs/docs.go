@@ -99,7 +99,7 @@ const docTemplate = `{
                 "cur_name": {
                     "type": "string"
                 },
-                "cur_official_rate": {
+                "cur_officialRate": {
                     "type": "number",
                     "format": "float"
                 }
