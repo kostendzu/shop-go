@@ -28,7 +28,7 @@ docker-compose up --build
 ### 0. Swagger
 
 ```bash
-http://localhost:<port>/swagger
+http://localhost:<SERVER_PORT>/swagger
 ```
 
 ### 1. Получить все валюты
