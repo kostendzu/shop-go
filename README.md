@@ -13,7 +13,7 @@ MYSQL_DATABASE=<your_db>
 MYSQL_PORT=<port1>
 MYSQL_HOST=localhost
 SERVER_PORT=<port2>
-
+```
 
 ## Запуск проекта с использованием Docker Compose
 
@@ -21,9 +21,10 @@ SERVER_PORT=<port2>
 
 ```bash
 docker-compose up --build
-
+```
 
 ## Запросы API
+
 - Получить все валюты
 > Метод: GET
 > Путь: /currencies
