@@ -25,6 +25,12 @@ docker-compose up --build
 
 ## Эндпоинты
 
+### 0. Swagger
+
+```bash
+http://localhost:<port>/swagger
+```
+
 ### 1. Получить все валюты
 
 **Метод**: `GET`  
